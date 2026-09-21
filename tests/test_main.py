@@ -1,4 +1,3 @@
-from confest import client
 import pytest
 
 async def test_health(client):
